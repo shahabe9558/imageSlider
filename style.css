@@ -4,7 +4,6 @@
     box-sizing: border-box;
 }
 .container{
-    border: 2px solid black;
     height: 100%;
     width: 100%;
     display: flex;
@@ -14,12 +13,18 @@
 .image{
     width: 50%;
     width: 100%;
+   
 }
 .content-container{
+    margin-top: 20px;
     width: 60%;
     height: 70%;
     border: 2px solid black;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    border-radius: 10px;
+
+}
+.left-btn{
+    margin-left: 30%;
+    /* margin-left: 550px; */
+    font-size: xx-large;
 }

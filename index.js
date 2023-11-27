@@ -1,5 +1,5 @@
 const imgDis = document.querySelector("[image-display]");
-const rightClick = document.querySelector(".right-click");
+const rightClick = document.querySelector("[right-click]");
 const leftClick = document.querySelector("[left-click]");
 
 
